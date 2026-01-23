@@ -1,0 +1,692 @@
+{
+    "info": [
+        {
+            "id": "info-0",
+            "title": "syllabus",
+            "locked": false,
+            "link": "https://docs.google.com/document/d/1lYI1tbEaZdijBIyCv7vVliUh9o1jtWMMUTru0KICLwk/edit?usp=sharing"
+        },
+        {
+            "id": "info-1",
+            "title": "python setup (mac)",
+            "locked": false,
+            "link": "https://drive.google.com/file/d/17btKFtgr5q5qn0pwWHi2OAbGildmm7-k/view?usp=drive_link"
+        },
+        {
+            "id": "info-2",
+            "title": "python setup (windows)",
+            "locked": false,
+            "link": "https://drive.google.com/file/d/16KoFVfkGlaFcEUIgihQ8CtI_kPxImy1A/view?usp=sharing"
+        },
+        {
+            "id": "info-3",
+            "title": "github classroom setup",
+            "locked": false,
+            "link": "https://docs.google.com/document/d/1vhZv_zhX6jcCMdSCeRIZ4tnHZrQRy0HARJqHmeMJo14/edit?usp=sharing"
+        }
+    ],
+    "schedule": [
+        {
+            "id": "week-1",
+            "week": 1,
+            "lab": {
+                "id": "lab-0",
+                "title": "blocks",
+                "due": "Feb 13 2025",
+                "release": "Jan 29 2025",
+                "link": "https://docs.google.com/document/d/1y2YkebueunhVEGldmmzj56PmDg9isJIi013ICUWaeh0/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "search spaces",
+                    "release": "Jan 29 2025",
+                    "link": "https://drive.google.com/file/d/1TlXcTuVttPAc9BH0VeHl5Lnk9Iv8B82d/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "n queens",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1V18ptlu7tJgQRqjYjvwjbhrIlX-pcN0tW-d5mSkhUN4/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "a template for search algorithms",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1tqY3v6QIqeDwVcAjK6jT0pYzvh0wmjYS/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "breadth-first search",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1_e92H52Ttpx9bHQQRzJJ6-_4KV61UO_5/view?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "lecture",
+                    "title": "uniform-cost search",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1hxXjAbnanEnVS2_EGhy7vDWS8qEtAIZ1/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "depth-first search",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1qn_yScl6f1BMXa_hASXwoU128xgU0dY8/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "memoized search",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1_HDrRDD4gXjB1KEMjphhuCzDfd_ER4vc/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "metrics for search analysis",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1a_Dp5WRQZpOAt9RvNB5J2Ygv4P8RrwHr/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "id": "week-2",
+            "week": 2,
+            "lab": {
+                "id": "lab-1",
+                "title": "letter boxed",
+                "due": "Feb 20 2025",
+                "release": "Feb 14 2025",
+                "link": ""
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "runtime of dfs and bfs",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1rVEnqZUhlyiPYF2b-tPbpHjz_OfsrLMN/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "space complexity of dfs and bfs",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1NGPmogM709WVbC8gwBFrpONNp__ffv8m/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "iterative deepening",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1zqFKg0jJFnE9Jzu2J7Ble01IpM1F9QmK/view?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "lecture",
+                    "title": "a* search",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/16MX0Pvpv1NS1LenTZBOOE_ifCucl2LfM/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "optimality of a* search",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1BLKahbGPDkIiEXC-saoTv_B2V26yoQrA/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "admissible heuristics",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1VLUWPj18ONKIKQ6DOq-bR-wj4AYO9ab_/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "id": "week-3",
+            "week": 3,
+            "lab": {
+                "id": "lab-2",
+                "title": "tic tac toe",
+                "due": "Feb 27 2025",
+                "release": "Feb 21 2025",
+                "link": ""
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "multiplayer search",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1eIUnpRcx7qv5UaqbDgsM-mju0DouPtcu/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "minimax",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/16dJ-klTMrKTZZWBrLCjGdgpectfE6p_9/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "nim",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1jZ0GiVZDFwzVyvDpd0WI1u1rv9_ihx_ZXxC3O5HjS1o/edit?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "lecture",
+                    "title": "alpha beta pruning",
+                    "release": "Feb 9 2025",
+                    "link": ""
+                },
+                {
+                    "type": "lecture",
+                    "title": "evaluation functions",
+                    "release": "Feb 9 2025",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "id": "week-4",
+            "week": 4,
+            "lab": {
+                "id": "lab-3",
+                "title": "quiz 1 review",
+                "release": "Feb 28 2025",
+                "link": "https://docs.google.com/document/d/1we0IcfR4ip0CrMD5tNIXQH9aT8F2Hyk2_9qOq73DrDA/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "movie",
+                    "title": "movie",
+                    "release": "Feb 9 2030",
+                    "link": ""
+                }
+            ],
+            "thu": [
+                {
+                    "type": "quiz",
+                    "title": "quiz 1",
+                    "release": "Feb 9 2030",
+                    "link": "none"
+                }
+            ]
+        },
+        {
+            "id": "week-5",
+            "week": 5,
+            "lab": {
+                "id": "lab-4",
+                "title": "descent",
+                "release": "Mar 7 2025",
+                "link": "https://docs.google.com/document/d/1SS2yI2e8zko0CEAJaVKpC4H_3bcx_4UMcMUAfCD2ARk/edit?tab=t.0#heading=h.bt6nfb7twjcq"
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "machine learning",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1jMYod0bXDTegN1NCOlSKOYrKqjlHW_wC/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "minima",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1mau0jak19rOimnV-lal7OGP6O2YNXn_qIr0iVsRj5wQ/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "gradient descent",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1FU17o4GVqnLmNDdM-QCjV7Dn5SQq6_N_/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "simplifying gradient descent",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/17DH7IfEhsQSvVlbtqS167pnUDkAHaToahfyxSIcgi6A/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "simulating gradient descent",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1_dtIIr0_cL9f3E_dwt-5xKe7aWdC-alQRkbEstR6WA8/edit?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "lecture",
+                    "title": "variants of gradient descent",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1A3UERzta_KAerCLI2iHzeqMiPYtfrlZ0/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "gradient descent variants",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1B-aHeB8aoDUOoi67XIW3g46AXkcfFK6y3EgkGBOzdVA/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "multidimensional gradient descent",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/13JhWCUo_lY3aAUncplN29QdW1X9MJes4/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "id": "week-6",
+            "week": 6,
+            "lab": {
+                "id": "lab-5",
+                "title": "lines",
+                "due": "Mar 20 2025",
+                "release": "Mar 14 2025",
+                "link": "https://docs.google.com/document/d/1etqJmzGo2HUbjPYhJ60xd8oZpCeY8ue3hFcEZGHJatc/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "regression",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1GRS3O77y5TM-jYf-9f9fgtYPtLycOw5E/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "argmin and monotonicity",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1HoQZ1EsmGrZeYLWsLM2u6Xz004Ao6-gz/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "linear regression",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1xptkNIB9Nu9CjHmkyzMDRn1r1esQ9d8h/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "regularization",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1ilUGrEMotkmgeOZPdz3W5YWB_tsxbYJU/view?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "lecture",
+                    "title": "logistic regression",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/14KNn2lZ3ZnFLyoXJxNCfkwTdHzOqncLT/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "function graphs",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/18RPG1kSC01N2_6scw6gtjWRuRMVq1vZT/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "optimizing logistic regression",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1ZzJTFN2A1WxGLa62vAxTyp6MTm3WxmbN/view?usp=sharing"
+                }
+            ]
+        },
+        {
+            "id": "week-7",
+            "week": 7,
+            "lab": {
+                "id": "lab-spring-break1",
+                "title": "no lab",
+                "release": "Mar 7 2030",
+                "link": "no link"
+            },
+            "mon": [
+                {
+                    "type": "holiday",
+                    "title": "spring break",
+                    "release": "Feb 9 2030",
+                    "link": "none"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "holiday",
+                    "title": "spring break",
+                    "release": "Feb 9 2030",
+                    "link": "none"
+                }
+            ]
+        },
+        {
+            "id": "week-8",
+            "week": 8,
+            "lab": {
+                "id": "lab-spring-break1",
+                "title": "no lab",
+                "release": "Mar 7 2030",
+                "link": "no link"
+            },
+            "mon": [
+                {
+                    "type": "holiday",
+                    "title": "spring break",
+                    "release": "Feb 9 2030",
+                    "link": "none"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "holiday",
+                    "title": "spring break",
+                    "release": "Feb 9 2030",
+                    "link": "none"
+                }
+            ]
+        },
+        {
+            "id": "week-9",
+            "week": 9,
+            "lab": {
+                "id": "lab-6",
+                "title": "circles",
+                "due": "Apr 10 2025",
+                "release": "Apr 4 2025",
+                "link": "https://docs.google.com/document/d/1X9hidoVzEu2V_FOYqYNwEH6bNMhS7J8yPh8H6tFNQ-o/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "limitations of linear models",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1olvvROf3p-s-zUbV2ddK_EnvUsh4YwJT/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "neural networks",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1MtrbuhBGnPMfzBiXdCzjoRYbY_qZmXNH/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "activation functions",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1ztIDMqFWa5BDt2zf30XYkyBBLmvMaiQl/view?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "workshop",
+                    "title": "rubik",
+                    "release": "Feb 9 2025",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "id": "week-10",
+            "week": 10,
+            "lab": {
+                "id": "lab-7",
+                "title": "quiz 2 review",
+                "due": "Apr 17 2025",
+                "release": "Apr 11 2025",
+                "link": "https://docs.google.com/document/d/1xNQYBhGjWmZcRSWdp_abbFL2-DvIQB7CrUIu7YsdW4g/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "workshop",
+                    "title": "tac tic toe revisited",
+                    "release": "Feb 9 2025",
+                    "link": ""
+                }
+            ],
+            "thu": [
+                {
+                    "type": "quiz",
+                    "title": "quiz 2",
+                    "release": "Feb 9 2030",
+                    "link": "none"
+                }
+            ]
+        },
+        {
+            "id": "week-11",
+            "week": 11,
+            "lab": {
+                "id": "lab-8",
+                "title": "aloha mr morse",
+                "due": "Apr 24 2025",
+                "release": "Apr 18 2025",
+                "link": "https://docs.google.com/document/d/1eGF47laUQauImIhYJ7o4oHN2Yq899t3212hu0bp_awo/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "probability",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1YjpLGYQdK-RxvYbrNuxBCXDbef1XWoGj/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "slice and dice",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1TQ4i8NomXDr4R25UPZyalLwqQXW3uDgYvqQjBa-VSOM/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "rendezvous at tunnel",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/18D0oun1iseG6XNnPXZcTv02--lH3J95y6HlA5tx8M2c/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "conditional probability",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1JKsg0p0-2GjH1ArhF-iMLu-8bvUXaftT/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "penicillin",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1pStnwKTGwDHf6IzRETBhUOiEJKfd7Cx34bOrBsYCayY/edit?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "lecture",
+                    "title": "the law of total probability",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1ODZh3_gJxrOLxgwSCmeWfgWWZgK6tjwG/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "fda approval",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1bcItjB9RrQgDxrLiDNEqLGg90TzJWRUlg7FlYdIOXmw/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "joint and marginal probability",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/13K2Vr1GaHU-_hrRXKbVjUW8cy2WhDS5N/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "carbon dating",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1ZpqquDhMqF6H4N11CELnVNvnrZ4S4wgxO2PdpxL52WI/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "id": "week-12",
+            "week": 12,
+            "lab": {
+                "id": "lab-9",
+                "title": "the power of redundancy",
+                "due": "May 1 2025",
+                "release": "Apr 25 2025",
+                "link": "https://docs.google.com/document/d/1xFmoydvdWHBUc7VkRH08SAmiE4eYaVkzhnPIHqug6tk/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "the value of information",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1tqtUWHr_LyyKyNlSWmSubFedkPy5mBmO/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "independence",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1JkVmmE4d_ZWv-19_RcaBzO0jvb2GVlXp/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "disjoint events",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1Yl6Y06Y5MVPyIe832GvdEiIhdghxsG2X6ibsPByz3zg/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "marginal independence",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1wtcIOO26jTwktU68AHmmEiZlVH5NDL6jA-AxVvAl5zY/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "first blood",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1apjiWsTEGUltvdPRaPzNUbGPoCqYppYZfdufrhDC34k/edit?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "lecture",
+                    "title": "probabilistic inference",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1JcCfq1cm9Ca3xJel2DYDOUP1wX551bNw/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "conditional love",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1gCsEj8qu0vUphm5cq9-TSvdS7xo0v6ZA414yHYrCZFI/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "chain rule of probability",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1MCvU4qgcbs4_Q728PBCSBRNhK8kTrJNb/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "bayesian networks",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1bx30j5rBFFwdwbfDfwADfe_hBsE2Dn8-/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "noisy channels",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1pX6E0uummwlCFpTg4Q7BHszXDVN6FpLJJOHmZQYXZn0/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "turbo coding",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1aY9QPPIw_ao4eHl8H-wbdh2P-yVICz2sKVB8WUAcYG0/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "id": "week-13",
+            "week": 13,
+            "lab": {
+                "id": "lab-10",
+                "title": "bloodlines",
+                "due": "May 8 2025",
+                "release": "May 2 2025",
+                "link": "https://docs.google.com/document/d/1r315RI4HrGn_lHxQ0lV1yRx49AyMThAPbZtxbQR0qKo/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "activity",
+                    "title": "complete graphs",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1AjOv5i0oVatSToGbhVj980zzfhO4gFlblQfy_Wa8UWs/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "the monty hall problem",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1bx30j5rBFFwdwbfDfwADfe_hBsE2Dn8-/view?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "variable elimination",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1vR9D1rLgTR3s69A58sAExeff3VecMgpi/view?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "activity",
+                    "title": "hidden markov models",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1eVjnoqGntzKpzXAGly17vCUzT63t1Jy2FflV-s1IDgw/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "d-separation",
+                    "release": "Feb 9 2025",
+                    "link": "https://drive.google.com/file/d/1CkvqJAG29-OHpDTeoOzjWeyhR22xqeMB/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "chains",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1nf8vSpTisiuJw_c2WjQg-6KVMJ1B47xPpnAgOnnJGWs/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "colliders",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1FFi1ppF2ZRXfy60A-_mcgIKQlNqJLmqCN48yvb8KlF8/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "d-separation",
+                    "release": "Feb 9 2025",
+                    "link": "https://docs.google.com/document/d/1MxDqmHJ89PdQ-18Kv_i-m0JcsyojODu-szlJ1YWe47Y/edit?usp=sharing"
+                }
+            ]
+        },
+        {
+            "id": "week-14",
+            "week": 14,
+            "lab": {
+                "id": "lab-11",
+                "title": "quiz 3 review",
+                "due": "May 15 2025",
+                "release": "May 9 2025",
+                "link": "https://docs.google.com/document/d/1sA1NdH7tFc6_nkI85Rd0tjNFqiZU-xKAt1Ipd381DRE/edit?usp=sharing"
+            },
+            "mon": [
+                {
+                    "type": "lecture",
+                    "title": "loss functions, revisited",
+                    "release": "Feb 9 2025",
+                    "link": ""
+                }
+            ],
+            "thu": [
+                {
+                    "type": "quiz",
+                    "title": "quiz 3",
+                    "release": "Feb 9 2030",
+                    "link": "none"
+                }
+            ]
+        }
+    ]
+}
