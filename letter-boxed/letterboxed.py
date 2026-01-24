@@ -127,7 +127,8 @@ if __name__ == "__main__":
 
     # letters = list("luarpeoxmgiq")
     # letters = list("abcdefghijkm")
-    letters = list("raghltieocyp")
+    # letters = list("raghltieocyp")
+    letters = list("mkpzetuniach")
     words = []
     with open("words.scrabble.txt") as reader:
         for line in reader:
