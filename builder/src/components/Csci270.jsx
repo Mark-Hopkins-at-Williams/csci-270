@@ -198,7 +198,8 @@ const LabAssignment = ({ type, title, link, release }) => {
 
 const SlideDeck = ({ type, title, link, release }) => {
   const now = new Date(Date.now());
-  const locked = release ? now <= new Date(release) : true;
+  const released = release ? now <= new Date(release) : true;
+  const locked = released && link;
   const iconMap = {
     lecture: "👨‍🏫",
     activity: "✍️",

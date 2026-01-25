@@ -17,6 +17,12 @@
             "title": "python setup (windows)",
             "locked": false,
             "link": "https://drive.google.com/file/d/16KoFVfkGlaFcEUIgihQ8CtI_kPxImy1A/view?usp=sharing"
+        },
+        {
+            "id": "info-3",
+            "title": "gradescope",
+            "locked": false,
+            "link": "http://https://www.gradescope.com/"
         }
     ],
     "schedule": [
@@ -26,15 +32,15 @@
             "lab": {
                 "id": "lab-0",
                 "title": "blocks",
-                "due": "Feb 13 2025",
-                "release": "Jan 29 2025",
+                "due": "Feb 17 2025",
+                "release": "Feb 11 2025",
                 "link": "https://docs.google.com/document/d/1y2YkebueunhVEGldmmzj56PmDg9isJIi013ICUWaeh0/edit?usp=sharing"
             },
             "mon": [
                 {
                     "type": "lecture",
                     "title": "search spaces",
-                    "release": "Jan 29 2025",
+                    "release": "Feb 9 2025",
                     "link": "https://drive.google.com/file/d/1TlXcTuVttPAc9BH0VeHl5Lnk9Iv8B82d/view?usp=sharing"
                 },
                 {
@@ -60,25 +66,25 @@
                 {
                     "type": "lecture",
                     "title": "uniform-cost search",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 12 2025",
                     "link": "https://drive.google.com/file/d/1hxXjAbnanEnVS2_EGhy7vDWS8qEtAIZ1/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "depth-first search",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 12 2025",
                     "link": "https://drive.google.com/file/d/1qn_yScl6f1BMXa_hASXwoU128xgU0dY8/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "memoized search",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 12 2025",
                     "link": "https://drive.google.com/file/d/1_HDrRDD4gXjB1KEMjphhuCzDfd_ER4vc/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "metrics for search analysis",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 12 2025",
                     "link": "https://drive.google.com/file/d/1a_Dp5WRQZpOAt9RvNB5J2Ygv4P8RrwHr/view?usp=sharing"
                 }
             ]
@@ -97,19 +103,19 @@
                 {
                     "type": "lecture",
                     "title": "runtime of dfs and bfs",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 16 2025",
                     "link": "https://drive.google.com/file/d/1rVEnqZUhlyiPYF2b-tPbpHjz_OfsrLMN/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "space complexity of dfs and bfs",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 16 2025",
                     "link": "https://drive.google.com/file/d/1NGPmogM709WVbC8gwBFrpONNp__ffv8m/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "iterative deepening",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 16 2025",
                     "link": "https://drive.google.com/file/d/1zqFKg0jJFnE9Jzu2J7Ble01IpM1F9QmK/view?usp=sharing"
                 }
             ],
@@ -117,19 +123,19 @@
                 {
                     "type": "lecture",
                     "title": "a* search",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 19 2025",
                     "link": "https://drive.google.com/file/d/16MX0Pvpv1NS1LenTZBOOE_ifCucl2LfM/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "optimality of a* search",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 19 2025",
                     "link": "https://drive.google.com/file/d/1BLKahbGPDkIiEXC-saoTv_B2V26yoQrA/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "admissible heuristics",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 19 2025",
                     "link": "https://drive.google.com/file/d/1VLUWPj18ONKIKQ6DOq-bR-wj4AYO9ab_/view?usp=sharing"
                 }
             ]
@@ -148,19 +154,19 @@
                 {
                     "type": "lecture",
                     "title": "multiplayer search",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 23 2025",
                     "link": "https://drive.google.com/file/d/1eIUnpRcx7qv5UaqbDgsM-mju0DouPtcu/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "minimax",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 23 2025",
                     "link": "https://drive.google.com/file/d/16dJ-klTMrKTZZWBrLCjGdgpectfE6p_9/view?usp=sharing"
                 },
                 {
                     "type": "activity",
                     "title": "nim",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 23 2025",
                     "link": "https://docs.google.com/document/d/1jZ0GiVZDFwzVyvDpd0WI1u1rv9_ihx_ZXxC3O5HjS1o/edit?usp=sharing"
                 }
             ],
@@ -168,13 +174,13 @@
                 {
                     "type": "lecture",
                     "title": "alpha beta pruning",
-                    "release": "Feb 9 2025",
-                    "link": ""
+                    "release": "Feb 26 2025",
+                    "link": "https://drive.google.com/file/d/1qsMsuB7zlmDi3ljlz5WbPE1SyfV1KHOZ/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "evaluation functions",
-                    "release": "Feb 9 2025",
+                    "release": "Feb 26 2025",
                     "link": ""
                 }
             ]
