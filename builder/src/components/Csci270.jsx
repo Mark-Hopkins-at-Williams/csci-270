@@ -1,5 +1,3 @@
-import { useState } from "react";
-import { useEffect } from "react";
 import courseData from "./csci270.json";
 
 const Welcome = () => {
@@ -174,7 +172,7 @@ const LabAssignment = ({ type, title, link, release }) => {
             : "csci270-lab-text csci270-lab"
         }
         style={{
-          border: "5px solid #000044",
+          border: "5px solid rgb(40, 40, 50)",
           margin: "0",
           padding: "2px",
           width: "100%",
@@ -220,7 +218,7 @@ const SlideDeck = ({ type, title, link, release }) => {
           locked ? "csci270-text csci270-locked" : "csci270-text csci270-button"
         }
         style={{
-          border: "solid 2px black",
+          border: "solid 2px rgb(40, 40, 50)",
           margin: "2px",
           padding: "2px",
         }}
