@@ -120,27 +120,18 @@ ul {
   font-style: normal;
 }
 
-.welcome {
+.teaching-assistants {
   height: 200px;
 }
 
-@media (max-width: 1009px) {
-  .welcome {
+@media (max-width: 702px) {
+  .teaching-assistants {
     height: 400px;
+    width: 400px;
+    align-self: center;
   }
 }
 
-@media (max-width: 574px) {
-  .welcome {
-    height: 500px;
-  }
-}
-
-@media (max-width: 498px) {
-  .welcome {
-    height: 750px;
-  }
-}
 
 .csci270-colorblock {
   padding: 10px;

@@ -34,8 +34,6 @@ const Welcome = () => {
           artificial intelligence
         </div>
       </div>
-
-      <TeachingAssistants />
     </div>
   );
 };
@@ -77,7 +75,7 @@ const TeachingAssistant = ({ image, name, hours, hours2, where }) => {
 
 const TeachingAssistants = () => {
   return (
-    <div className="csci270-colorblock">
+    <div className="teaching-assistants">
       <div
         style={{
           display: "flex",
@@ -97,7 +95,7 @@ const TeachingAssistants = () => {
           <TeachingAssistant
             image="images/mark.png"
             name="Mark"
-            hours="wed 2-4pm"
+            hours="tu, th 11am-noon"
             where="tcl 307"
           />
           <TeachingAssistant
@@ -398,12 +396,14 @@ function csci270() {
           display: "flex",
           flexFlow: "column nowrap",
           justifyContent: "center",
+          alignItems: "stretch",
           gap: "20px",
           height: "auto",
           paddingBottom: "20px",
         }}
       >
         <Welcome />
+        <TeachingAssistants />
         <Information />
         <div
           style={{
