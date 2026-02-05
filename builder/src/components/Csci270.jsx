@@ -104,7 +104,7 @@ const TeachingAssistants = () => {
             name="Juan"
             hours="su 5-7pm"
             hours2="m 3-5pm"
-            hours3="tu 530-730pm"
+            hours3="tu 5-7pm"
             where="unix lab"
           />
           <TeachingAssistant
