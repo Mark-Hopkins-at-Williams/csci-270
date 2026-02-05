@@ -38,7 +38,7 @@ const Welcome = () => {
   );
 };
 
-const TeachingAssistant = ({ image, name, hours, hours2, where }) => {
+const TeachingAssistant = ({ image, name, hours, hours2, hours3, where }) => {
   return (
     <div
       className="csci270-subtitle"
@@ -68,6 +68,7 @@ const TeachingAssistant = ({ image, name, hours, hours2, where }) => {
       </div>
       <div>{hours.toLowerCase()}</div>
       {hours2 ? <div>{hours2.toLowerCase()}</div> : <div></div>}
+      {hours3 ? <div>{hours3.toLowerCase()}</div> : <div></div>}
       <div>{where.toLowerCase()}</div>
     </div>
   );
@@ -95,38 +96,43 @@ const TeachingAssistants = () => {
           <TeachingAssistant
             image="images/mark.png"
             name="Mark"
-            hours="tu, th 11am-noon"
+            hours="tu 11am-noon"
             where="tcl 307"
           />
           <TeachingAssistant
             image="images/mendez.jpeg"
             name="Juan"
-            hours="wed 2-4pm"
-            where="tcl 307"
+            hours="su 5-7pm"
+            hours2="m 3-5pm"
+            hours3="tu 530-730pm"
+            where="unix lab"
           />
           <TeachingAssistant
             image="images/hall.jpeg"
             name="Lauren"
-            hours="wed 2-4pm"
-            where="tcl 307"
+            hours="su 7-9pm"
+            hours2="m 730-9pm"
+            where="unix lab"
           />
           <TeachingAssistant
             image="images/wexler.jpeg"
             name="Sam"
-            hours="wed 2-4pm"
-            where="tcl 307"
+            hours="tu 7-9pm"
+            where="unix lab"
           />
           <TeachingAssistant
             image="images/park.jpeg"
             name="Serah"
-            hours="wed 2-4pm"
-            where="tcl 307"
+            hours="m 5-6pm"
+            hours2="fr 4-6pm"
+            where="unix lab"
           />
           <TeachingAssistant
             image="images/yuri.jpeg"
             name="Yuri"
-            hours="wed 2-4pm"
-            where="tcl 307"
+            hours="m 6-9pm"
+            hours2="th 6-8pm"
+            where="unix lab"
           />
         </div>
         <div style={{ flexGrow: 1, flexShrink: 1 }}></div>

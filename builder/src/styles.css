@@ -121,12 +121,12 @@ ul {
 }
 
 .teaching-assistants {
-  height: 200px;
+  height: 250px;
 }
 
 @media (max-width: 702px) {
   .teaching-assistants {
-    height: 400px;
+    height: 480px;
     width: 400px;
     align-self: center;
   }
