@@ -197,10 +197,34 @@
             },
             "mon": [
                 {
-                    "type": "movie",
-                    "title": "movie",
-                    "release": "Mar 2 2026",
-                    "link": ""
+                    "type": "lecture",
+                    "title": "machine learning",
+                    "release": "Mar 9 2026",
+                    "link": "https://drive.google.com/file/d/1jMYod0bXDTegN1NCOlSKOYrKqjlHW_wC/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "minima",
+                    "release": "Mar 9 2026",
+                    "link": "https://docs.google.com/document/d/1mau0jak19rOimnV-lal7OGP6O2YNXn_qIr0iVsRj5wQ/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "gradient descent",
+                    "release": "Mar 9 2026",
+                    "link": "https://drive.google.com/file/d/1FU17o4GVqnLmNDdM-QCjV7Dn5SQq6_N_/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "simplifying gradient descent",
+                    "release": "Mar 9 2026",
+                    "link": "https://docs.google.com/document/d/17DH7IfEhsQSvVlbtqS167pnUDkAHaToahfyxSIcgi6A/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "simulating gradient descent",
+                    "release": "Mar 9 2026",
+                    "link": "https://docs.google.com/document/d/1_dtIIr0_cL9f3E_dwt-5xKe7aWdC-alQRkbEstR6WA8/edit?usp=sharing"
                 },
                 {
                     "type": "activity",
@@ -231,38 +255,6 @@
             "mon": [
                 {
                     "type": "lecture",
-                    "title": "machine learning",
-                    "release": "Mar 9 2026",
-                    "link": "https://drive.google.com/file/d/1jMYod0bXDTegN1NCOlSKOYrKqjlHW_wC/view?usp=sharing"
-                },
-                {
-                    "type": "activity",
-                    "title": "minima",
-                    "release": "Mar 9 2026",
-                    "link": "https://docs.google.com/document/d/1mau0jak19rOimnV-lal7OGP6O2YNXn_qIr0iVsRj5wQ/edit?usp=sharing"
-                },
-                {
-                    "type": "lecture",
-                    "title": "gradient descent",
-                    "release": "Mar 9 2026",
-                    "link": "https://drive.google.com/file/d/1FU17o4GVqnLmNDdM-QCjV7Dn5SQq6_N_/view?usp=sharing"
-                },
-                {
-                    "type": "activity",
-                    "title": "simplifying gradient descent",
-                    "release": "Mar 9 2026",
-                    "link": "https://docs.google.com/document/d/17DH7IfEhsQSvVlbtqS167pnUDkAHaToahfyxSIcgi6A/edit?usp=sharing"
-                },
-                {
-                    "type": "activity",
-                    "title": "simulating gradient descent",
-                    "release": "Mar 9 2026",
-                    "link": "https://docs.google.com/document/d/1_dtIIr0_cL9f3E_dwt-5xKe7aWdC-alQRkbEstR6WA8/edit?usp=sharing"
-                }
-            ],
-            "thu": [
-                {
-                    "type": "lecture",
                     "title": "variants of gradient descent",
                     "release": "Mar 12 2026",
                     "link": "https://drive.google.com/file/d/1A3UERzta_KAerCLI2iHzeqMiPYtfrlZ0/view?usp=sharing"
@@ -279,19 +271,8 @@
                     "release": "Mar 12 2026",
                     "link": "https://drive.google.com/file/d/13JhWCUo_lY3aAUncplN29QdW1X9MJes4/view?usp=sharing"
                 }
-            ]
-        },
-        {
-            "id": "week-6",
-            "week": 6,
-            "lab": {
-                "id": "lab-5",
-                "title": "lines",
-                "release": "Mar 18 2026",
-                "due": "Mar 24 2026",
-                "link": "https://docs.google.com/document/d/1etqJmzGo2HUbjPYhJ60xd8oZpCeY8ue3hFcEZGHJatc/edit?usp=sharing"
-            },
-            "mon": [
+            ],
+            "thu": [
                 {
                     "type": "lecture",
                     "title": "regression",
@@ -316,8 +297,19 @@
                     "release": "Mar 16 2026",
                     "link": "https://drive.google.com/file/d/1ilUGrEMotkmgeOZPdz3W5YWB_tsxbYJU/view?usp=sharing"
                 }
-            ],
-            "thu": [
+            ]
+        },
+        {
+            "id": "week-6",
+            "week": 6,
+            "lab": {
+                "id": "lab-5",
+                "title": "lines",
+                "release": "Mar 18 2026",
+                "due": "Mar 24 2026",
+                "link": "https://docs.google.com/document/d/1etqJmzGo2HUbjPYhJ60xd8oZpCeY8ue3hFcEZGHJatc/edit?usp=sharing"
+            },
+            "mon": [
                 {
                     "type": "lecture",
                     "title": "logistic regression",
@@ -335,6 +327,14 @@
                     "title": "optimizing logistic regression",
                     "release": "Mar 19 2026",
                     "link": "https://drive.google.com/file/d/1ZzJTFN2A1WxGLa62vAxTyp6MTm3WxmbN/view?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "movie",
+                    "title": "movie",
+                    "release": "Mar 2 2026",
+                    "link": ""
                 }
             ]
         },
