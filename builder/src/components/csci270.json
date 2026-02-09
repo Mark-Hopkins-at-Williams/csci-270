@@ -56,6 +56,12 @@
                     "link": "https://drive.google.com/file/d/1tqY3v6QIqeDwVcAjK6jT0pYzvh0wmjYS/view?usp=sharing"
                 },
                 {
+                    "type": "kahoot",
+                    "title": "state machines and search fundamentals",
+                    "release": "Feb 10 2026",
+                    "link": "https://create.kahoot.it/share/state-machines-search-fundamentals/ef59ad1e-00d8-4049-8767-20391e9ef733"
+                },
+                {
                     "type": "lecture",
                     "title": "breadth-first search",
                     "release": "Jan 26 2026",
@@ -275,21 +281,27 @@
             "thu": [
                 {
                     "type": "lecture",
-                    "title": "regression",
+                    "title": "linear regression",
                     "release": "Mar 16 2026",
-                    "link": "https://drive.google.com/file/d/1GRS3O77y5TM-jYf-9f9fgtYPtLycOw5E/view?usp=sharing"
+                    "link": "https://drive.google.com/file/d/1DI6nRY6RKSdIsyfehd8Pgh-jBYS-1Y5T/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "matrix multiplication",
+                    "release": "Mar 16 2026",
+                    "link": "https://docs.google.com/document/d/1XDOqTvI_ExuehqtlP8Xvx4oo-fzu7FituadkvBL91j0/edit?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "loop de loop",
+                    "release": "Mar 16 2026",
+                    "link": "https://docs.google.com/document/d/1A9FFvflUNdqI_mOTnFapm2W_tc78nOJO04EQi8vWLUg/edit?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "argmin and monotonicity",
                     "release": "Mar 16 2026",
                     "link": "https://drive.google.com/file/d/1HoQZ1EsmGrZeYLWsLM2u6Xz004Ao6-gz/view?usp=sharing"
-                },
-                {
-                    "type": "lecture",
-                    "title": "linear regression",
-                    "release": "Mar 16 2026",
-                    "link": "https://drive.google.com/file/d/1xptkNIB9Nu9CjHmkyzMDRn1r1esQ9d8h/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
