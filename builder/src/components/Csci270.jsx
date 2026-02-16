@@ -1,5 +1,10 @@
 import courseData from "./csci270.json";
 
+function getNow() {
+  //return new Date("Jan 1 2030"); // uncomment to unlock all content
+  return new Date(Date.now());
+}
+
 const Welcome = () => {
   return (
     <div
@@ -162,7 +167,7 @@ const WeekItem = ({ title }) => {
 };
 
 const LabAssignment = ({ type, title, link, release }) => {
-  const now = new Date(Date.now());
+  const now = getNow();
   const released = release ? now > new Date(release) : false;
   const locked = !released || !link;
 
@@ -199,7 +204,7 @@ const LabAssignment = ({ type, title, link, release }) => {
 };
 
 const SlideDeck = ({ type, title, link, release }) => {
-  const now = new Date(Date.now());
+  const now = getNow();
   const released = release ? now > new Date(release) : false;
   const locked = !released || !link;
   const iconMap = {

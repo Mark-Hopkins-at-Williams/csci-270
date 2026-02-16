@@ -119,6 +119,12 @@
                     "link": "https://drive.google.com/file/d/1rVEnqZUhlyiPYF2b-tPbpHjz_OfsrLMN/view?usp=sharing"
                 },
                 {
+                    "type": "activity",
+                    "title": "what's in the box?",
+                    "release": "Feb 16 2026",
+                    "link": "https://docs.google.com/document/d/14lgNZhNRivgMSaeD8RSAiCjQCvl8revc6eyCfr4uLo4/edit?usp=sharing"
+                },
+                {
                     "type": "lecture",
                     "title": "space complexity of dfs and bfs",
                     "release": "Feb 16 2026",
@@ -293,9 +299,9 @@
                 },
                 {
                     "type": "activity",
-                    "title": "matrix multiplication",
+                    "title": "gradebook",
                     "release": "Mar 16 2026",
-                    "link": "https://docs.google.com/document/d/1XDOqTvI_ExuehqtlP8Xvx4oo-fzu7FituadkvBL91j0/edit?usp=sharing"
+                    "link": "https://docs.google.com/document/d/1jr5BYVFkWDOgoxtkrlsZyNQi2-P81_46ieKUAgrN3Dw/edit?usp=sharing"
                 },
                 {
                     "type": "activity",
@@ -311,9 +317,9 @@
                 },
                 {
                     "type": "lecture",
-                    "title": "regularization",
+                    "title": "optimizing linear regression",
                     "release": "Mar 16 2026",
-                    "link": "https://drive.google.com/file/d/1ilUGrEMotkmgeOZPdz3W5YWB_tsxbYJU/view?usp=sharing"
+                    "link": "https://drive.google.com/file/d/1qcXuh0X-EJb5Rbha4QiPMglncXjrxZdQ/view?usp=sharing"
                 }
             ]
         },
@@ -328,6 +334,12 @@
                 "link": "https://docs.google.com/document/d/1etqJmzGo2HUbjPYhJ60xd8oZpCeY8ue3hFcEZGHJatc/edit?usp=sharing"
             },
             "mon": [
+                {
+                    "type": "lecture",
+                    "title": "regularization",
+                    "release": "Mar 16 2026",
+                    "link": "https://drive.google.com/file/d/1ilUGrEMotkmgeOZPdz3W5YWB_tsxbYJU/view?usp=sharing"
+                },
                 {
                     "type": "lecture",
                     "title": "logistic regression",
