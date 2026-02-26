@@ -202,6 +202,12 @@
                     "link": "https://drive.google.com/file/d/1qsMsuB7zlmDi3ljlz5WbPE1SyfV1KHOZ/view?usp=sharing"
                 },
                 {
+                    "type": "activity",
+                    "title": "alpha beta practice",
+                    "release": "Feb 26 2026",
+                    "link": "https://docs.google.com/document/d/1kT8wfj7vqXpmGASfEwuAL1q98kd8k9HLeKperwYLtiM/edit?usp=sharing"
+                },
+                {
                     "type": "lecture",
                     "title": "evaluation functions",
                     "release": "Feb 26 2026",
