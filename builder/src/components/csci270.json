@@ -326,12 +326,6 @@
                     "title": "argmin and monotonicity",
                     "release": "Mar 12 2026",
                     "link": "https://drive.google.com/file/d/1HoQZ1EsmGrZeYLWsLM2u6Xz004Ao6-gz/view?usp=sharing"
-                },
-                {
-                    "type": "lecture",
-                    "title": "optimizing linear regression",
-                    "release": "Mar 12 2026",
-                    "link": "https://drive.google.com/file/d/1qcXuh0X-EJb5Rbha4QiPMglncXjrxZdQ/view?usp=sharing"
                 }
             ]
         },
@@ -340,43 +334,43 @@
             "week": 6,
             "lab": {
                 "id": "lab-5",
-                "title": "lines",
+                "title": "circles",
                 "release": "Mar 18 2026",
                 "due": "Mar 24 2026",
-                "link": "https://docs.google.com/document/d/1etqJmzGo2HUbjPYhJ60xd8oZpCeY8ue3hFcEZGHJatc/edit?usp=sharing"
+                "link": ""
             },
             "mon": [
                 {
                     "type": "lecture",
-                    "title": "regularization",
+                    "title": "optimizing linear regression",
                     "release": "Mar 16 2026",
-                    "link": "https://drive.google.com/file/d/1ilUGrEMotkmgeOZPdz3W5YWB_tsxbYJU/view?usp=sharing"
+                    "link": "https://drive.google.com/file/d/1qcXuh0X-EJb5Rbha4QiPMglncXjrxZdQ/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "logistic regression",
-                    "release": "Mar 19 2026",
+                    "release": "Mar 16 2026",
                     "link": "https://drive.google.com/file/d/14KNn2lZ3ZnFLyoXJxNCfkwTdHzOqncLT/view?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "function graphs",
-                    "release": "Mar 19 2026",
+                    "release": "Mar 16 2026",
                     "link": "https://drive.google.com/file/d/18RPG1kSC01N2_6scw6gtjWRuRMVq1vZT/view?usp=sharing"
-                },
+                }
+            ],
+            "thu": [
                 {
                     "type": "lecture",
                     "title": "optimizing logistic regression",
                     "release": "Mar 19 2026",
                     "link": "https://drive.google.com/file/d/1ZzJTFN2A1WxGLa62vAxTyp6MTm3WxmbN/view?usp=sharing"
-                }
-            ],
-            "thu": [
+                },
                 {
-                    "type": "movie",
-                    "title": "movie",
-                    "release": "Mar 2 2026",
-                    "link": ""
+                    "type": "lecture",
+                    "title": "regularization",
+                    "release": "Mar 16 2026",
+                    "link": "https://drive.google.com/file/d/1ilUGrEMotkmgeOZPdz3W5YWB_tsxbYJU/view?usp=sharing"
                 }
             ]
         },
@@ -458,9 +452,9 @@
             ],
             "thu": [
                 {
-                    "type": "workshop",
-                    "title": "rubik",
-                    "release": "Apr 9 2026",
+                    "type": "movie",
+                    "title": "movie",
+                    "release": "Mar 2 2026",
                     "link": ""
                 }
             ]
@@ -477,13 +471,19 @@
             },
             "mon": [
                 {
+                    "type": "workshop",
+                    "title": "rubik",
+                    "release": "Apr 9 2026",
+                    "link": ""
+                }
+            ],
+            "thu": [
+                {
                     "type": "activity",
                     "title": "quiz 2 practice",
                     "release": "Apr 13 2026",
                     "link": "https://docs.google.com/document/d/1xNQYBhGjWmZcRSWdp_abbFL2-DvIQB7CrUIu7YsdW4g/edit?usp=sharing"
-                }
-            ],
-            "thu": [
+                },
                 {
                     "type": "quiz",
                     "title": "quiz 2",
