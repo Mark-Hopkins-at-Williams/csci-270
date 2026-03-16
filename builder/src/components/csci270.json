@@ -341,10 +341,10 @@
             },
             "mon": [
                 {
-                    "type": "lecture",
-                    "title": "optimizing linear regression",
+                    "type": "activity",
+                    "title": "math appetizer 1",
                     "release": "Mar 16 2026",
-                    "link": "https://drive.google.com/file/d/1qcXuh0X-EJb5Rbha4QiPMglncXjrxZdQ/view?usp=sharing"
+                    "link": "https://docs.google.com/document/d/1j-1F8EWj4CYDA3SIGpitJamFv-mPfYowkftJDYZXw50/edit?usp=sharing"
                 },
                 {
                     "type": "lecture",
@@ -357,6 +357,18 @@
                     "title": "function graphs",
                     "release": "Mar 16 2026",
                     "link": "https://drive.google.com/file/d/18RPG1kSC01N2_6scw6gtjWRuRMVq1vZT/view?usp=sharing"
+                },
+                {
+                    "type": "activity",
+                    "title": "logistic regression function graph",
+                    "release": "Mar 16 2026",
+                    "link": "https://docs.google.com/document/d/1WFBmL0XjG_3amUnN6QYrqSbMgH_Ogpkl-IfOUcUFnx4/edit?usp=sharing"
+                },
+                {
+                    "type": "lecture",
+                    "title": "optimizing linear regression",
+                    "release": "Mar 16 2026",
+                    "link": "https://drive.google.com/file/d/1qcXuh0X-EJb5Rbha4QiPMglncXjrxZdQ/view?usp=sharing"
                 }
             ],
             "thu": [
@@ -369,7 +381,7 @@
                 {
                     "type": "lecture",
                     "title": "regularization",
-                    "release": "Mar 16 2026",
+                    "release": "Mar 19 2026",
                     "link": "https://drive.google.com/file/d/1ilUGrEMotkmgeOZPdz3W5YWB_tsxbYJU/view?usp=sharing"
                 }
             ]
