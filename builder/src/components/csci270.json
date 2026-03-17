@@ -363,15 +363,21 @@
                     "title": "logistic regression function graph",
                     "release": "Mar 16 2026",
                     "link": "https://docs.google.com/document/d/1WFBmL0XjG_3amUnN6QYrqSbMgH_Ogpkl-IfOUcUFnx4/edit?usp=sharing"
+                }
+            ],
+            "thu": [
+                {
+                    "type": "activity",
+                    "title": "math amuse bouche 2",
+                    "release": "Mar 19 2026",
+                    "link": "https://docs.google.com/document/d/19VMU1cOTmQv9I5ia-JOgHDZ_7dZZqHpgIIIzbFjDdIk/edit?usp=sharing"
                 },
                 {
                     "type": "lecture",
                     "title": "optimizing linear regression",
-                    "release": "Mar 16 2026",
+                    "release": "Mar 19 2026",
                     "link": "https://drive.google.com/file/d/1qcXuh0X-EJb5Rbha4QiPMglncXjrxZdQ/view?usp=sharing"
-                }
-            ],
-            "thu": [
+                },
                 {
                     "type": "lecture",
                     "title": "optimizing logistic regression",
