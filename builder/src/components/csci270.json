@@ -443,12 +443,32 @@
             "week": 9,
             "lab": {
                 "id": "lab-6",
-                "title": "alpha toe",
+                "title": "movie magic",
                 "release": "Apr 8 2026",
                 "due": "Apr 14 2026",
-                "link": ""
+                "link": "https://docs.google.com/document/d/1V9RVXTAIlfXONf7qrM6E67nKu0msgSHfxRCXkC2lEqM/edit?usp=sharing"
             },
             "mon": [
+                {
+                    "type": "lecture",
+                    "title": "torch",
+                    "release": "Apr 9 2026",
+                    "link": "https://drive.google.com/file/d/1ETMXWx-ypcs-m7l81T_OukbLuOpBy0Qh/view?usp=sharing"
+                },
+                {
+                    "type": "kahoot",
+                    "title": "torch",
+                    "release": "Apr 10 2026",
+                    "link": "https://create.kahoot.it/share/torch/6c41bbe2-d291-487d-909e-55cb6f0ac407"
+                },
+                {
+                    "type": "lecture",
+                    "title": "autograd",
+                    "release": "Apr 9 2026",
+                    "link": "https://drive.google.com/file/d/1jIot9er11XoO7gsgpS8QDM43CqqSC2Nw/view?usp=sharing"
+                }
+            ],
+            "thu": [
                 {
                     "type": "lecture",
                     "title": "limitations of linear models",
@@ -466,14 +486,12 @@
                     "title": "activation functions",
                     "release": "Apr 6 2026",
                     "link": "https://drive.google.com/file/d/1ztIDMqFWa5BDt2zf30XYkyBBLmvMaiQl/view?usp=sharing"
-                }
-            ],
-            "thu": [
+                },
                 {
-                    "type": "movie",
-                    "title": "movie",
-                    "release": "Mar 2 2026",
-                    "link": ""
+                    "type": "lecture",
+                    "title": "optimizing neural networks",
+                    "release": "Apr 6 2026",
+                    "link": "https://drive.google.com/file/d/12eKGn2P2dXkAdskHCzTd5f7C3h4d-szj/view?usp=drive_link"
                 }
             ]
         },
@@ -481,46 +499,21 @@
             "id": "week-10",
             "week": 10,
             "lab": {
-                "id": "lab-7",
-                "title": "project 2 - alpha four",
+                "id": "lab-6",
+                "title": "alpha toe",
                 "release": "Apr 15 2026",
-                "due": "May 12 2026",
-                "link": ""
+                "due": "Apr 21 2026",
+                "link": "https://docs.google.com/document/d/1Wkb-SA53B6RFN3YXzpz5XOD9N1n36nvI0RFY7iJvPUU/edit?usp=sharing"
             },
             "mon": [
                 {
-                    "type": "workshop",
-                    "title": "rubik",
-                    "release": "Apr 9 2026",
+                    "type": "movie",
+                    "title": "movie",
+                    "release": "Mar 2 2026",
                     "link": ""
                 }
             ],
             "thu": [
-                {
-                    "type": "activity",
-                    "title": "quiz 2 practice",
-                    "release": "Apr 13 2026",
-                    "link": "https://docs.google.com/document/d/1xNQYBhGjWmZcRSWdp_abbFL2-DvIQB7CrUIu7YsdW4g/edit?usp=sharing"
-                },
-                {
-                    "type": "quiz",
-                    "title": "quiz 2",
-                    "release": "Apr 17 2026",
-                    "link": ""
-                }
-            ]
-        },
-        {
-            "id": "week-11",
-            "week": 11,
-            "lab": {
-                "id": "lab-8",
-                "title": "aloha mr morse",
-                "release": "Apr 22 2026",
-                "due": "Apr 28 2026",
-                "link": "https://docs.google.com/document/d/1eGF47laUQauImIhYJ7o4oHN2Yq899t3212hu0bp_awo/edit?usp=sharing"
-            },
-            "mon": [
                 {
                     "type": "lecture",
                     "title": "probability",
@@ -551,8 +544,19 @@
                     "release": "Apr 20 2026",
                     "link": "https://docs.google.com/document/d/1pStnwKTGwDHf6IzRETBhUOiEJKfd7Cx34bOrBsYCayY/edit?usp=sharing"
                 }
-            ],
-            "thu": [
+            ]
+        },
+        {
+            "id": "week-11",
+            "week": 11,
+            "lab": {
+                "id": "lab-7",
+                "title": "project 2 - alpha four",
+                "release": "Apr 21 2026",
+                "due": "May 12 2026",
+                "link": "https://docs.google.com/document/d/1mCHJ-ja0IZXa0qvCGoRC5Z8tGsgoDp80s9acU5t90nY/edit?usp=sharing"
+            },
+            "mon": [
                 {
                     "type": "lecture",
                     "title": "the law of total probability",
@@ -577,17 +581,31 @@
                     "release": "Apr 23 2026",
                     "link": "https://docs.google.com/document/d/1ZpqquDhMqF6H4N11CELnVNvnrZ4S4wgxO2PdpxL52WI/edit?usp=sharing"
                 }
+            ],
+            "thu": [
+                {
+                    "type": "activity",
+                    "title": "quiz 2 practice",
+                    "release": "Apr 13 2026",
+                    "link": "https://docs.google.com/document/d/1xNQYBhGjWmZcRSWdp_abbFL2-DvIQB7CrUIu7YsdW4g/edit?usp=sharing"
+                },
+                {
+                    "type": "quiz",
+                    "title": "quiz 2",
+                    "release": "Apr 17 2026",
+                    "link": ""
+                }
             ]
         },
         {
             "id": "week-12",
             "week": 12,
             "lab": {
-                "id": "lab-9",
-                "title": "the power of redundancy",
-                "release": "Apr 29 2026",
-                "due": "May 5 2026",
-                "link": "https://docs.google.com/document/d/1xFmoydvdWHBUc7VkRH08SAmiE4eYaVkzhnPIHqug6tk/edit?usp=sharing"
+                "id": "lab-8",
+                "title": "project 2 - alpha four",
+                "release": "Apr 21 2026",
+                "due": "May 12 2026",
+                "link": ""
             },
             "mon": [
                 {
@@ -664,11 +682,11 @@
             "id": "week-13",
             "week": 13,
             "lab": {
-                "id": "lab-10",
-                "title": "bloodlines",
-                "release": "May 6 2026",
+                "id": "lab-9",
+                "title": "project 2 - alpha four",
+                "release": "Apr 21 2026",
                 "due": "May 12 2026",
-                "link": "https://docs.google.com/document/d/1r315RI4HrGn_lHxQ0lV1yRx49AyMThAPbZtxbQR0qKo/edit?usp=sharing"
+                "link": ""
             },
             "mon": [
                 {

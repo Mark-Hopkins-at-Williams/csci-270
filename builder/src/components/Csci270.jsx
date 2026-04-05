@@ -1,7 +1,7 @@
 import courseData from "./csci270.json";
 
 function getNow() {
-  //return new Date("Jan 1 2030"); // uncomment to unlock all content
+  return new Date("Jan 1 2030"); // uncomment to unlock all content
   return new Date(Date.now());
 }
 
