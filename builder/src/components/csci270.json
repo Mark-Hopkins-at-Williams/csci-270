@@ -760,6 +760,12 @@
             ],
             "thu": [
                 {
+                    "type": "activity",
+                    "title": "quiz 3 practice",
+                    "release": "May 7 2026",
+                    "link": "https://docs.google.com/document/d/1sA1NdH7tFc6_nkI85Rd0tjNFqiZU-xKAt1Ipd381DRE/edit?usp=sharing"
+                },
+                {
                     "type": "quiz",
                     "title": "quiz 3",
                     "release": "May 14 2026",
